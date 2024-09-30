@@ -1,0 +1,63 @@
+#bit{
+    
+    background-color:rgba(177, 166, 166, 0.678);
+}
+#myidentity{
+    background-color:rgba(177, 166, 166, 0.678);
+}
+
+#myphoto{
+    background-color:rgba(177, 166, 166, 0.678);
+    margin-right: 20px;
+}
+.myname{
+    background-color:rgba(177, 166, 166, 0.678);
+}
+#cv{
+    background-color:rgba(177, 166, 166, 0.678);
+    color:white;
+}
+#margin-right1{
+    color:black;
+    margin-right: 300px;
+    font-size: 40px;
+}
+button{
+ cursor: pointer;
+}
+#margin-right2{
+    margin-right: 200px;
+}
+#margin3{
+    background-color: black;
+    color:white;
+    margin-left: 400px;
+    font-size: 40px;
+}
+#background-black{
+    background-color: black;
+}
+#margin-left{
+    margin-left:350px;
+}
+.bot-sh
+{
+    background-color: aliceblue;
+    border: none;
+    height:100px ;
+    width: 110px;
+    border-radius: 3px;
+
+}
+#background-gray{
+    background-color:rgba(177, 166, 166, 0.678);
+}
+#margin-leftphoto{
+    margin-left:100px;
+}
+#end-cv{
+    background-color: black;
+    color:white;
+    margin-left: 200px;
+    font-size: 40px;
+}
